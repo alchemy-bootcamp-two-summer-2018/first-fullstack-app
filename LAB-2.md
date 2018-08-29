@@ -21,7 +21,10 @@ Update your project to use a SQL database!
 1. Modify your `server.js`
     1. Open a client connection to the database
     1. Modify express routes to use the client to send queries to the database
-1. Do the work incrementally while verifying that each part of the app still works
+1. Use postman to help validate the work incrementally. 
+    1. Start by changing the `POST`, test from postman and validate using `psql` the data is correctly
+    populating in the database
+    1. Then change the `GET` and verify it works in postman
 
 ## New Requirements
 
