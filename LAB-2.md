@@ -55,6 +55,6 @@ all the right fields.
 ## Rubric
 
 * DB scripts **4pts**
-* GET, GET by id, and POST routes that use sql to get data **3pts**
+* `GET`, `GET` by id, and `POST` routes that use sql to get data **3pts**
 * New detail view **3pts**
     
